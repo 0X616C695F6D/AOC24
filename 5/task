@@ -1,0 +1,6 @@
+Difficulty: Medium
+Recommended Language: C
+Problem Statement:
+Simulate Conway’s Game of Life. Input: initial board configuration and the
+number of iterations N. Apply the rules of the Game of Life for N generations
+and print the final board state. Optimize cell updates to handle larger boards.

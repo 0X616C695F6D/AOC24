@@ -1,0 +1,7 @@
+Difficulty: Medium
+Recommended Language: Ada
+Problem Statement:
+Implement a Caesar cipher encryptor/decryptor. The program takes a key
+(shift value) and an operation mode (encrypt/decrypt) from command line argument
+and processes a given text file. Assume uppercase letters A-Z only. Print the
+transformed text.

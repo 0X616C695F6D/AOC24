@@ -1,0 +1,6 @@
+Difficulty: Extremely Difficult
+Recommended Language: C++
+Problem Statement:
+Implement the A* pathfinding algorithm on a large 2D grid. Input: a grid with
+obstacles, a start, and a goal. Output: the shortest path and its length.
+Optimize for performance and handle large grids efficiently.

@@ -1,0 +1,7 @@
+Difficulty: Extremely Difficult
+Recommended Language: Ada
+Problem Statement:
+Implement a microkernel-style message-passing system. Simulate multiple
+processes as Ada tasks. Ensure tasks are isolated and communicate only via
+well-defined message channels. Add basic security checks: tasks should only
+receive messages from authorized senders.

@@ -1,0 +1,7 @@
+Difficulty: Extremely Difficult
+Recommended Language: C++
+Problem Statement:
+Implement a SAT solver using the DPLL algorithm (or a more optimized variant).
+Input: a Boolean formula in DIMACS CNF format. Output: "SAT" and a satisfying
+assignment or "UNSAT" if no assignment exists. Optimize to handle moderately
+large instances.

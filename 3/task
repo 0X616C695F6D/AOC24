@@ -1,0 +1,6 @@
+Difficulty: Medium
+Recommended Language: Python
+Problem Statement:
+Read a matrix of integers (R rows × C columns) and find the maximum sum of any
+rectangular submatrix. Implement an algorithm (like Kadane’s 2D) to handle large
+matrices efficiently. Print the maximum sub-rectangle sum.

@@ -1,0 +1,6 @@
+Difficulty: Medium
+Recommended Language: Python
+Problem Statement:
+Implement an HTTP client using raw TCP sockets (no HTTP libraries). Input: a
+hostname and a resource path. Send a GET request, receive the HTTP response, and
+print the raw headers and body. Handle basic error cases.

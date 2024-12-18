@@ -1,0 +1,7 @@
+Difficulty: Very Hard
+Recommended Language: Python
+Problem Statement:
+Implement AES-128 encryption in pure Python (no external crypto libraries).
+Given a 128-bit key and a plaintext block (128 bits), perform all AES steps
+(SubBytes, ShiftRows, MixColumns, AddRoundKey) and print the resulting
+ciphertext block in hex.
