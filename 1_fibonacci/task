@@ -1,0 +1,7 @@
+Difficulty: Easy
+Recommended Language: Python
+Problem Statement:
+Implement a program to compute the Nth Fibonacci number modulo 1,000,000,007.
+The input provides N (0 ≤ N ≤ 10^7). Output the Nth Fibonacci number under the
+given modulus. Optimize to handle large N efficiently (e.g., using fast doubling
+or matrix exponentiation).
