@@ -1,6 +1,0 @@
-Difficulty: Easy
-Recommended Language: C
-Problem Statement:
-Read a list of signed integers (one per line) from a text file. For each integer
-read, update a running cumulative sum and print it. Handle potentially large
-input files efficiently, making sure to stop at EOF.
