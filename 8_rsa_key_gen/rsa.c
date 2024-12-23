@@ -21,8 +21,16 @@ int modular_exponentiation(int a, int d, int n);
 
 int main() {
 
+	int primes = 0;
+
 
 	return 0;
+}
+
+
+unsigned long long generate_large_prime(unsigned long long min,
+		unsigned long long max) {
+
 }
 
 /*

@@ -1,6 +1,0 @@
-Recommended Language: C
-Problem Statement:
-Implement a basic RSA key generation tool. Given a random seed, generate two
-large prime numbers (using a simple probabilistic test), compute N, φ(N), e, and
-d. Print the public (N, e) and private (N, d) keys. Keep everything self-
-contained, no large libraries.
