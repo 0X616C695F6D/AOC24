@@ -1,6 +1,0 @@
-Difficulty: Medium
-Recommended Language: C++
-Problem Statement:
-Build a Markov chain text generator. Input: a training text file and parameters
-for chain order (k) and output length (in words). Construct a k-order Markov
-model and generate a new text sequence, printing the result.

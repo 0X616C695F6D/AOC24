@@ -1,6 +1,0 @@
-Difficulty: Hard
-Recommended Language: C++
-Problem Statement:
-Given a set of 2D points, compute the convex hull using Graham’s scan or
-Andrew’s monotone chain algorithm. Input: a set of points; output: the hull
-points in clockwise order. Ensure the algorithm is O(N log N).

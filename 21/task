@@ -1,7 +1,0 @@
-Difficulty: Extremely Difficult
-Recommended Language: C
-Problem Statement:
-Write a simple malware-like self-replicating program (for educational purposes
-only, run in a safe environment). The program should prepend its code to another
-given binary file, thereby "infecting" it. Ensure the host file remains
-functional. Demonstrate on a dummy binary only.

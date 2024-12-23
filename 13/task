@@ -1,7 +1,0 @@
-Difficulty: Very Hard
-Recommended Language: C
-Problem Statement:
-Implement a network packet sniffer using raw sockets. Capture TCP packets on a
-given interface and print their source/destination IPs and ports. After
-processing a certain number of packets or receiving a signal, print a summary of
-captured traffic statistics.

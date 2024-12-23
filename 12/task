@@ -1,6 +1,0 @@
-Difficulty: Very Hard
-Recommended Language: C++
-Problem Statement:
-Create a simple ray tracer. Input: a scene description (camera parameters, a
-few spheres and planes, a light source). Output: a PPM image file rendered using
-basic ray tracing (shadows, Lambertian shading). No external graphics libraries.

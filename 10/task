@@ -1,7 +1,0 @@
-Difficulty: Hard
-Recommended Language: Python
-Problem Statement:
-Implement logistic regression from scratch. Input: a CSV with features and a
-binary label. Perform training (gradient descent) until convergence and print
-the final weights and accuracy on a test subset. No external ML libraries
-allowed.

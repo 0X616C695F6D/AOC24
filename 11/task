@@ -1,7 +1,0 @@
-Difficulty: Hard
-Recommended Language: Ada
-Problem Statement:
-Implement a binary heap to serve as a priority queue. Input: a series of
-commands (“INSERT x” and “EXTRACT-MAX”). For EXTRACT-MAX, print the removed
-element. Your program should handle up to tens of thousands of operations
-efficiently.

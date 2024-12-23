@@ -1,7 +1,0 @@
-Difficulty: Extremely Difficult
-Recommended Language: Python
-Problem Statement:
-Perform cryptanalysis on a ciphertext encrypted with a monoalphabetic
-substitution cipher. Using frequency analysis and a dictionary of words, guess
-the substitution mapping and print the decrypted plaintext. This may require
-heuristic or search approaches.

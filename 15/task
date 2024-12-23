@@ -1,7 +1,0 @@
-Difficulty: Very Hard
-Recommended Language: Ada
-Problem Statement:
-Simulate a simple process scheduler. Input: a list of processes with arrival
-times, CPU bursts, and priorities. Implement a priority-based preemptive
-scheduler. Output: the order of execution, waiting times, and turnaround times
-for each process.

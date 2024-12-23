@@ -1,7 +1,0 @@
-Difficulty: Extremely Difficult
-Recommended Language: Python
-Problem Statement:
-Implement a minimal distributed key-value store. Spin up multiple processes or
-threads simulating different nodes. Use a consensus algorithm like Raft to
-achieve a consistent state. Input: a series of PUT/GET commands sent to any
-node. Output: the values and a final state log.
