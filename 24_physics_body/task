@@ -1,0 +1,7 @@
+Difficulty: Extremely Difficult
+Recommended Language: C++
+Problem Statement:
+Create a real-time 3D rigid-body physics simulation. Input: a scene with
+multiple polyhedral objects in a box. Simulate gravity, collisions, and
+restitution. Output frame-by-frame positions and velocities. Efficiently
+implement collision detection and numerical integration.

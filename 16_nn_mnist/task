@@ -1,0 +1,7 @@
+Difficulty: Extremely Difficult
+Recommended Language: Python
+Problem Statement:
+Implement a small neural network from scratch to classify MNIST-like data. Load
+the dataset (provided as binary files), create a fully connected feed-forward
+network, implement backpropagation, train for several epochs, and print final
+accuracy. No ML libraries allowed—just raw Python and math.

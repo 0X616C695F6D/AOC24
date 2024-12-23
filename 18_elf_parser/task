@@ -1,0 +1,7 @@
+Difficulty: Extremely Difficult
+Recommended Language: C
+Problem Statement:
+Write an ELF (Executable and Linkable Format) parser. Given a path to an ELF
+binary, parse it manually and print the symbol table, including symbol names
+and addresses. Use no external parsing libraries; rely on official ELF
+specifications.
