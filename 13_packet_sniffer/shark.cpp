@@ -24,6 +24,11 @@ class Connection {
 		string protocol;
 		int packet_count;
 
+
+	Connection()
+		    : src_ip(""), dest_ip(""), src_port(0), dest_port(0), protocol(""),
+			packet_count(0) {}
+		
 	Connection(const string &src_ip, const string &dest_ip, unsigned short src_port,
 			unsigned short dest_port, const string &protocol)
 			: src_ip(src_ip), dest_ip(dest_ip), src_port(src_port),
