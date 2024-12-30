@@ -1,0 +1,20 @@
+Difficulty: Extremely Difficult
+Recommended Language: C
+Problem Statement:
+Write an ELF (Executable and Linkable Format) parser. Given a path to an ELF
+binary, parse it manually and print the symbol table, including symbol names
+and addresses. Use no external parsing libraries; rely on official ELF
+specifications.
+
+References:
++ https://en.wikipedia.org/wiki/Executable_and_Linkable_Format#File_layout)
+
+ELF files:
++ ELF header
++ data
+	+ Program header table >0 memory segments
+	+ Section header table >0 sections
+	+ data referred to in the program/section headers
+
++ Any byte in the entire file can be owned by one section at most, and
+  orphaned bytes can occur which are unowned by any section!
