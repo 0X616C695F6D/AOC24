@@ -1,15 +1,43 @@
+What:
+-----
 My personal 'Advent of Code' for year 2024.
 
+I did not enjoy any of the challenges on the official advent of code website,
+for the first couple of days. Instead I tasked gpt to help curate challenges.
 
-I did not enjoy any of the challenges on aoc this year.
-So, I decided to create my own... generated using gpt.
+How:
+----
+Forced gpt to stick with c, c++, and python for language recommendations.
 
+I also hinted towards networking, security and some ML.
 
-I forced it to stick with c, c++, and python.
-Obviously I know how to program in c and python, but not much in c++ and ada
-outside of class, so this'll be interesting.
+Difficulty of challenges are meant to increase per-day from easy to extremely
+hard. 
 
+Missed:
+-------
+Some days are obviously missing and no challenge was completed for that date.
 
-The problems were also solved using the help of gpt, but as a tutor instead of a
-personal programmer. Point of doing all this obviously is to have fun and learn
-a lot while doing so.
+Days:
+-----
+1: Compute the Nth fibonacci number
+2: Sum large signed integers
+3: Compute kadane on 2D matrix
+4: Ceaser cipher encrypt/decrypt
+7: HTTP client using raw TCP sockets
+8: RSA key generation tool using Miller-Rabin and Bézout's identity
+10: Logistic regression from scratch with IRIS dataset
+13: Sniff network traffic using raw sockets, providing traffic summary
+18: Parse ELF files for symbol table, symbol names, and addresses
+
+Note:
+-----
+Day 13 project was super interesting to me and I had additional ideas on
+extending it to something worthwhile.
+
+A new project spawned, called 'shark' on my gh.
+
+Use of LLMs:
+------------
+Yes LLMs were used to help with coding. As tutors. Not to provide full
+solutions. LLMs are useful for teaching coding, when used sparsely.
